@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
-
+<br><br><br>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML" />
@@ -51,6 +51,7 @@
     <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="40" height="40" alt="Photoshop" />
   </a>
 </p>
+<br><br><br><br>
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
