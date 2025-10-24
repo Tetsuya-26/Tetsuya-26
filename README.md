@@ -57,9 +57,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tetsuya-26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tetsuya-26" />
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tetsuya-26&show_icons=true&locale=en" alt="tetsuya-26" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tetsuya-26&show_icons=true&locale=en&layout=compact&theme=dark" alt="Tetsuya-26 Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tetsuya-26&" alt="tetsuya-26" /></p>
+<!-- General Stats -->
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tetsuya-26&show_icons=true&locale=en&theme=dark" alt="Tetsuya-26 Stats" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/ryanoreste"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ryanoreste" /></a></p><br><br>
