@@ -55,7 +55,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tetsuya-26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tetsuya-26 Top Languages" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tetsuya-26&show_icons=true&locale=en&theme=dark" alt="Tetsuya-26 Stats" width="260" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tetsuya-26&show_icons=true&locale=en&theme=dark" alt="Tetsuya-26 Stats" width="260" height="200" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tetsuya-26&theme=dark" alt="tetsuya-26" />
 </p>
 
