@@ -53,5 +53,6 @@
 
 <!-- GitHub Top Languages Card (Dark Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tetsuya-26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tetsuya-26" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,git,tailwind,firebase,photoshop&theme=dark" />
 </p>
+
