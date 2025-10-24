@@ -7,12 +7,48 @@
 <p align="left">
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-
-<!-- GitHub Top Languages Card (Dark Theme) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,git,tailwind,firebase,photoshop&theme=dark" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" height="40" alt="Express.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" height="40" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40" alt="MySQL" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" height="40" alt="PHP" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="TailwindCSS" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="40" height="40" alt="Photoshop" />
+  </a>
 </p>
 
 
