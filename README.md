@@ -15,6 +15,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,git,tailwind,firebase,photoshop&theme=dark" />
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/ryanoreste"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ryanoreste" /></a></p><br><br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tetsuya-26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tetsuya-26" />
 </p>
