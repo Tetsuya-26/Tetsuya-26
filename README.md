@@ -61,7 +61,8 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tetsuya-26&show_icons=true&locale=en&theme=dark" alt="tetsuya-26" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tetsuya-26&theme=dark" alt="tetsuya-26" />
+  <img src="https://streak-stats.demolab.com/?user=tetsuya-26&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 
