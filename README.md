@@ -4,6 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tetsuya-26" alt="tetsuya-26" /></a> </p>
 
+<!-- Profile Summary Card -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tetsuya-26&theme=github_dark" alt="Profile Summary Card" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
